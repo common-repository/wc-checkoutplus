@@ -1,0 +1,72 @@
+# Copyright (C) 2022 David Towoju
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: CheckoutPlus - WooCommerce Checkout Fields Builder "
+"0.1.10\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/"
+"checkoutplus\n"
+"POT-Creation-Date: 2022-12-26T04:48:41+00:00\n"
+"PO-Revision-Date: 2022-12-26 05:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: wc-checkoutplus\n"
+
+#. Plugin Name of the plugin
+msgid "CheckoutPlus - WooCommerce Checkout Fields Builder"
+msgstr "Checkoutplus - WooCommerce Veldbouwer afrekenen"
+
+#. Plugin URI of the plugin
+msgid "https://pluginette.com"
+msgstr "https://pluginette.com"
+
+#. Description of the plugin
+msgid "The all-in-one WooCommerce checkout field editor"
+msgstr "De alles-in-één WooCommerce kassa-editor"
+
+#. Author of the plugin
+msgid "David Towoju"
+msgstr "David Towoju"
+
+#: includes/Admin.php:127 includes/Admin.php:128 includes/i18n.php:53
+msgid "Checkout Fields"
+msgstr "Aangepaste velden"
+
+#: includes/Fields.php:140
+msgid "Order Notes"
+msgstr "Bestel notities"
+
+#: includes/Fields.php:141
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr ""
+
+#: includes/i18n.php:55
+msgid "Help"
+msgstr "Helpen"
+
+#: includes/i18n.php:56
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/i18n.php:57
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/i18n.php:62
+msgid "Billing Fields"
+msgstr "Factureringsvelden"
+
+#: includes/i18n.php:63
+msgid "Shipping Fields"
+msgstr "Verzendvelden"
+
+#: includes/i18n.php:64
+msgid "Additional Fields"
+msgstr "Aanvullende velden"

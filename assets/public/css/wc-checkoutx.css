@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce-input-wrapper.flexed label {
+  display: flex !important;
+  align-items: center;
+  white-space: pre-wrap
+}
